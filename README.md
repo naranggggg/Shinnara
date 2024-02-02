@@ -71,8 +71,9 @@
     서울 여행 정보를 사용자의 취향에 맞게 추천해주는 웹 사이트
   </p>
   <br>
-  ![늴리리_전체화면](https://github.com/naranggggg/Shinnara/assets/149359209/6a590776-9e2a-4048-9ea6-cf4df912d011)
   
+  ![늴리리_전체화면](https://github.com/naranggggg/Shinnara/assets/149359209/4286d00d-416b-4f04-92fb-2337c0570beb)
+
   <h4> - 작은농장 - <br>
       (https://github.com/naranggggg/FinalProject.git)
 
@@ -81,7 +82,9 @@
     시작하려는 사람들에게 길잡이가 되어 줄 수 있도록 다양한 정보를 제공해 주는 웹 사이트
   </p>
   <br>
-  ![작은농장_전체화면](https://github.com/naranggggg/Shinnara/assets/149359209/d1d62752-f5c6-419e-a4de-a01ec201b9b3)
+  
+  ![작은농장_전체화면](https://github.com/naranggggg/Shinnara/assets/149359209/3d489d7f-0d88-4433-88e9-d2edfab22f6e)
+  
 </div>
 
 
