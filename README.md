@@ -6,9 +6,7 @@
 
 <div align=center>
   <p>
-    안녕하세요 :smiley: <br>
-    백엔드 개발자 신나라입니다! <br>
-    늘 겸손하게 꾸준히 학습하는 개발자가 되겠습니다 :pray:
+    
   </p>  
 </div>
 
